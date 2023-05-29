@@ -1,5 +1,3 @@
-'''Almacenar en memoria principal los empleados de la empresa, obteniendo los datos de los archivos “planta.csv”,
-“contratados. csv”, “externos. csv” que contienen los datos de cada uno de los tipos de empleados.'''
 import os
 from Menu import Menu
 from coleccion import Colecion
